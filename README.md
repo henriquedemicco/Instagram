@@ -1,2 +1,2 @@
 # Instagram
-Recriação da página inicial do Instagram (Interface)
+Recriação da página inicial do Instagram (Interface), utilizando Html e Css
